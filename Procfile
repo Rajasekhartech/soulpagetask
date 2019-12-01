@@ -1,0 +1,1 @@
+web: gunicorn djongo_project.wsgi
